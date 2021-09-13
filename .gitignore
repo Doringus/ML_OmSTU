@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
-
+competition/
+cats_and_dogs/
 profile_default/
 ipython_config.py
